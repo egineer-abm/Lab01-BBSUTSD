@@ -1,0 +1,213 @@
+============================================================
+  BBSUTSD — Software Installation Checklist LOG
+  Benazir Bhutto Shaheed University of Technology
+  and Skill Development — Khairpur Mirs
+============================================================
+
+Generated : 10/13/2026, 10:02:52 PM
+Lab/Room  : Lab01
+Date      : 2026-10-03
+Prepared  : Abdulbasit
+
+------------------------------------------------------------
+[01] Java
+     PC01:✓  PC02:✓  PC03:✓  PC04:✓  PC05:✓  PC06:✓  PC07:✓  PC08:✓
+     PC09:   PC10:✓  PC11:✓  PC12:✓  PC13:✓  PC14:✓  PC15:✓  PC16:✓
+     PC17:   PC18:✓  PC19:✓  PC20:✓  PC21:✓  PC22:✓  PC23:✓  PC24:✓
+     PC25: 
+
+[02] Python
+     PC01:✓  PC02:✓  PC03:✓  PC04:✓  PC05:✓  PC06:✓  PC07:✓  PC08:✓
+     PC09:✓  PC10:   PC11:✓  PC12:✓  PC13:✓  PC14:✓  PC15:✓  PC16:✓
+     PC17:   PC18:✓  PC19:   PC20:✓  PC21:✓  PC22:✓  PC23:✓  PC24:✓
+     PC25: 
+
+[03] Node.js
+     PC01:   PC02:   PC03:   PC04:   PC05:   PC06:   PC07:   PC08: 
+     PC09:   PC10:   PC11:   PC12:   PC13:   PC14:   PC15:   PC16: 
+     PC17:   PC18:   PC19:   PC20:   PC21:✓  PC22:✓  PC23:   PC24: 
+     PC25: 
+
+[04] Dev-C++
+     PC01:✓  PC02:✓  PC03:✓  PC04:✓  PC05:✓  PC06:✓  PC07:   PC08:✓
+     PC09:✓  PC10:   PC11:✓  PC12:✓  PC13:✓  PC14:✓  PC15:✓  PC16:✓
+     PC17:   PC18:✓  PC19:✓  PC20:✓  PC21:✓  PC22:✓  PC23:✓  PC24:✓
+     PC25: 
+
+[05] Eclipse
+     PC01:   PC02:   PC03:   PC04:   PC05:   PC06:   PC07:   PC08: 
+     PC09:   PC10:   PC11:   PC12:   PC13:   PC14:   PC15:   PC16: 
+     PC17:   PC18:   PC19:   PC20:   PC21:   PC22:   PC23:   PC24: 
+     PC25: 
+
+[06] Android Studio
+     PC01:✓  PC02:✓  PC03:✓  PC04:   PC05:✓  PC06:   PC07:✓  PC08: 
+     PC09:✓  PC10:✓  PC11:✓  PC12:✓  PC13:✓  PC14:   PC15:   PC16: 
+     PC17:   PC18:   PC19:✓  PC20:✓  PC21:   PC22:✓  PC23:   PC24: 
+     PC25: 
+
+[07] Figma
+     PC01:   PC02:   PC03:   PC04:   PC05:   PC06:   PC07:   PC08: 
+     PC09:   PC10:   PC11:   PC12:   PC13:   PC14:   PC15:   PC16: 
+     PC17:   PC18:   PC19:   PC20:   PC21:   PC22:   PC23:   PC24: 
+     PC25: 
+
+[08] Arduino IDE
+     PC01:✓  PC02:✓  PC03:✓  PC04:   PC05:✓  PC06:✓  PC07:✓  PC08:✓
+     PC09:✓  PC10:   PC11:✓  PC12:✓  PC13:   PC14:✓  PC15:✓  PC16:✓
+     PC17:   PC18:✓  PC19:✓  PC20:✓  PC21:✓  PC22:✓  PC23:✓  PC24:✓
+     PC25:✓
+
+[09] MySQL
+     PC01:   PC02:   PC03:   PC04:   PC05:   PC06:   PC07:   PC08:✓
+     PC09:   PC10:   PC11:   PC12:   PC13:✓  PC14:   PC15:   PC16: 
+     PC17:   PC18:   PC19:   PC20:   PC21:✓  PC22:✓  PC23:   PC24: 
+     PC25: 
+
+[10] VS Code
+     PC01:✓  PC02:✓  PC03:✓  PC04:   PC05:✓  PC06:✓  PC07:✓  PC08:✓
+     PC09:✓  PC10:   PC11:✓  PC12:✓  PC13:✓  PC14:✓  PC15:✓  PC16:✓
+     PC17:   PC18:✓  PC19:✓  PC20:✓  PC21:✓  PC22:✓  PC23:✓  PC24:✓
+     PC25: 
+
+[11] Visual Studio 2022
+     PC01:   PC02:   PC03:✓  PC04:   PC05:✓  PC06:   PC07:✓  PC08:✓
+     PC09:   PC10:   PC11:   PC12:✓  PC13:✓  PC14:   PC15:   PC16: 
+     PC17:   PC18:   PC19:   PC20:   PC21:   PC22:✓  PC23:   PC24: 
+     PC25: 
+
+[12] SSMS
+     PC01:   PC02:   PC03:   PC04:   PC05:   PC06:   PC07:   PC08: 
+     PC09:   PC10:   PC11:   PC12:   PC13:   PC14:   PC15:   PC16: 
+     PC17:   PC18:   PC19:   PC20:   PC21:   PC22:✓  PC23:   PC24: 
+     PC25: 
+
+[13] Xilinx Vivado
+     PC01:   PC02:   PC03:   PC04:   PC05:   PC06:   PC07:   PC08: 
+     PC09:   PC10:   PC11:   PC12:   PC13:   PC14:   PC15:   PC16: 
+     PC17:   PC18:   PC19:   PC20:   PC21:   PC22:✓  PC23:   PC24: 
+     PC25: 
+
+[14] IntelliJ IDEA
+     PC01:✓  PC02:✓  PC03:✓  PC04:✓  PC05:   PC06:✓  PC07:   PC08:✓
+     PC09:   PC10:   PC11:   PC12:   PC13:✓  PC14:   PC15:   PC16: 
+     PC17:   PC18:   PC19:   PC20:   PC21:✓  PC22:   PC23:   PC24: 
+     PC25: 
+
+[15] MATLAB
+     PC01:✓  PC02:✓  PC03:✓  PC04:✓  PC05:✓  PC06:✓  PC07:   PC08:✓
+     PC09:✓  PC10:✓  PC11:✓  PC12:   PC13:   PC14:✓  PC15:✓  PC16: 
+     PC17:   PC18:   PC19:✓  PC20:   PC21:   PC22:   PC23:   PC24: 
+     PC25: 
+
+[16] Multisim
+     PC01:   PC02:   PC03:   PC04:   PC05:   PC06:   PC07:   PC08: 
+     PC09:   PC10:   PC11:   PC12:   PC13:   PC14:   PC15:   PC16: 
+     PC17:   PC18:   PC19:   PC20:   PC21:   PC22:   PC23:   PC24: 
+     PC25: 
+
+[17] Miniconda
+     PC01:✓  PC02:✓  PC03:✓  PC04:✓  PC05:✓  PC06:✓  PC07:   PC08: 
+     PC09:✓  PC10:   PC11:✓  PC12:   PC13:   PC14:   PC15:   PC16:✓
+     PC17:   PC18:   PC19:✓  PC20:   PC21:   PC22:✓  PC23:   PC24: 
+     PC25: 
+
+[18] MS Office
+     PC01:✓  PC02:✓  PC03:✓  PC04:✓  PC05:✓  PC06:✓  PC07:✓  PC08:✓
+     PC09:✓  PC10:✓  PC11:✓  PC12:✓  PC13:✓  PC14:✓  PC15:✓  PC16:✓
+     PC17:   PC18:✓  PC19:✓  PC20:✓  PC21:✓  PC22:✓  PC23:✓  PC24:✓
+     PC25: 
+
+[19] VirtualBox / VMware
+     PC01:   PC02:   PC03:   PC04:   PC05:   PC06:   PC07:   PC08: 
+     PC09:   PC10:   PC11:   PC12:   PC13:   PC14:   PC15:   PC16: 
+     PC17:   PC18:   PC19:   PC20:   PC21:   PC22:   PC23:   PC24: 
+     PC25: 
+
+[20] Git
+     PC01:   PC02:   PC03:   PC04:   PC05:   PC06:   PC07:   PC08: 
+     PC09:   PC10:   PC11:   PC12:   PC13:   PC14:   PC15:   PC16: 
+     PC17:   PC18:   PC19:   PC20:   PC21:   PC22:✓  PC23:   PC24: 
+     PC25: 
+
+[21] Postman
+     PC01:   PC02:   PC03:   PC04:   PC05:   PC06:   PC07:   PC08: 
+     PC09:   PC10:   PC11:   PC12:   PC13:   PC14:   PC15:   PC16: 
+     PC17:   PC18:   PC19:   PC20:   PC21:   PC22:   PC23:   PC24: 
+     PC25: 
+
+[22] WinRAR
+     PC01:✓  PC02:✓  PC03:✓  PC04:✓  PC05:✓  PC06:✓  PC07:   PC08:✓
+     PC09:✓  PC10:   PC11:✓  PC12:✓  PC13:✓  PC14:✓  PC15:✓  PC16:✓
+     PC17:   PC18:✓  PC19:✓  PC20:✓  PC21:✓  PC22:✓  PC23:✓  PC24: 
+     PC25: 
+
+[23] Notepad++
+     PC01:   PC02:   PC03:   PC04:   PC05:   PC06:   PC07:   PC08: 
+     PC09:   PC10:   PC11:   PC12:   PC13:   PC14:   PC15:   PC16: 
+     PC17:   PC18:   PC19:   PC20:   PC21:   PC22:✓  PC23:   PC24: 
+     PC25: 
+
+[24] Wireshark
+     PC01:   PC02:   PC03:   PC04:   PC05:   PC06:   PC07:   PC08: 
+     PC09:   PC10:   PC11:   PC12:   PC13:   PC14:   PC15:   PC16: 
+     PC17:   PC18:   PC19:   PC20:   PC21:   PC22:   PC23:   PC24: 
+     PC25: 
+
+[25] PuTTY
+     PC01:   PC02:   PC03:   PC04:   PC05:   PC06:   PC07:   PC08: 
+     PC09:   PC10:   PC11:   PC12:   PC13:   PC14:   PC15:   PC16: 
+     PC17:   PC18:   PC19:   PC20:   PC21:   PC22:   PC23:   PC24: 
+     PC25: 
+
+[26] Emu8086
+     PC01:✓  PC02:✓  PC03:✓  PC04:✓  PC05:✓  PC06:✓  PC07:✓  PC08:✓
+     PC09:✓  PC10:   PC11:✓  PC12:✓  PC13:✓  PC14:✓  PC15:✓  PC16:✓
+     PC17:✓  PC18:✓  PC19:✓  PC20:✓  PC21:✓  PC22:✓  PC23:✓  PC24:✓
+     PC25: 
+
+[27] Adobe XD
+     PC01:   PC02:   PC03:   PC04:   PC05:   PC06:   PC07:   PC08: 
+     PC09:   PC10:   PC11:   PC12:   PC13:   PC14:   PC15:   PC16: 
+     PC17:   PC18:   PC19:   PC20:   PC21:   PC22:   PC23:   PC24: 
+     PC25: 
+
+[28] Flutter
+     PC01:   PC02:   PC03:   PC04:   PC05:   PC06:   PC07:   PC08: 
+     PC09:   PC10:   PC11:   PC12:   PC13:   PC14:   PC15:   PC16: 
+     PC17:   PC18:   PC19:   PC20:   PC21:   PC22:✓  PC23:   PC24: 
+     PC25: 
+
+[29] PyCharm IDE
+     PC01:✓  PC02:✓  PC03:✓  PC04:✓  PC05:   PC06:✓  PC07:   PC08:✓
+     PC09:   PC10:   PC11:   PC12:✓  PC13:✓  PC14:✓  PC15:   PC16: 
+     PC17:   PC18:   PC19:✓  PC20:   PC21:✓  PC22:✓  PC23:   PC24:✓
+     PC25: 
+
+[30] Cisco Packet Tracer
+     PC01:✓  PC02:✓  PC03:✓  PC04:✓  PC05:✓  PC06:✓  PC07:   PC08:✓
+     PC09:   PC10:✓  PC11:   PC12:✓  PC13:✓  PC14:✓  PC15:   PC16:✓
+     PC17:   PC18:   PC19:   PC20:   PC21:   PC22:✓  PC23:   PC24: 
+     PC25: 
+
+[31] XAMPP
+     PC01:✓  PC02:✓  PC03:✓  PC04:✓  PC05:✓  PC06:✓  PC07:✓  PC08:✓
+     PC09:✓  PC10:✓  PC11:✓  PC12:✓  PC13:✓  PC14:✓  PC15:✓  PC16:✓
+     PC17:   PC18:✓  PC19:✓  PC20:✓  PC21:✓  PC22:✓  PC23:✓  PC24: 
+     PC25: 
+
+[32] Proteus Design Suite
+     PC01:✓  PC02:✓  PC03:✓  PC04:✓  PC05:✓  PC06:✓  PC07:✓  PC08:✓
+     PC09:   PC10:   PC11:   PC12:   PC13:   PC14:   PC15:   PC16: 
+     PC17:   PC18:   PC19:   PC20:✓  PC21:✓  PC22:✓  PC23:✓  PC24:✓
+     PC25: 
+
+------------------------------------------------------------
+Lab In-Charge : Abdul Basit
+Faculty       : —
+HOD           : —
+------------------------------------------------------------
+
+--- MACHINE READABLE JSON (do not edit below this line) ---
+{"version":2,"softwares":["Java","Python","Node.js","Dev-C++","Eclipse","Android Studio","Figma","Arduino IDE","MySQL","VS Code","Visual Studio 2022","SSMS","Xilinx Vivado","IntelliJ IDEA","MATLAB","Multisim","Miniconda","MS Office","VirtualBox / VMware","Git","Postman","WinRAR","Notepad++","Wireshark","PuTTY","Emu8086","Adobe XD","Flutter","PyCharm IDE","Cisco Packet Tracer","XAMPP","Proteus Design Suite"],"pcCount":25,"state":[[true,true,true,true,true,true,true,true,false,true,true,true,true,true,true,true,false,true,true,true,true,true,true,true,false],[true,true,true,true,true,true,true,true,true,false,true,true,true,true,true,true,false,true,false,true,true,true,true,true,false],[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,true,false,false,false],[true,true,true,true,true,true,false,true,true,false,true,true,true,true,true,true,false,true,true,true,true,true,true,true,false],[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false],[true,true,true,false,true,false,true,false,true,true,true,true,true,false,false,false,false,false,true,true,false,true,false,false,false],[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false],[true,true,true,false,true,true,true,true,true,false,true,true,false,true,true,true,false,true,true,true,true,true,true,true,true],[false,false,false,false,false,false,false,true,false,false,false,false,true,false,false,false,false,false,false,false,true,true,false,false,false],[true,true,true,false,true,true,true,true,true,false,true,true,true,true,true,true,false,true,true,true,true,true,true,true,false],[false,false,true,false,true,false,true,true,false,false,false,true,true,false,false,false,false,false,false,false,false,true,false,false,false],[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false],[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false],[true,true,true,true,false,true,false,true,false,false,false,false,true,false,false,false,false,false,false,false,true,false,false,false,false],[true,true,true,true,true,true,false,true,true,true,true,false,false,true,true,false,false,false,true,false,false,false,false,false,false],[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false],[true,true,true,true,true,true,false,false,true,false,true,false,false,false,false,true,false,false,true,false,false,true,false,false,false],[true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,false,true,true,true,true,true,true,true,false],[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false],[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false],[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false],[true,true,true,true,true,true,false,true,true,false,true,true,true,true,true,true,false,true,true,true,true,true,true,false,false],[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false],[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false],[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false],[true,true,true,true,true,true,true,true,true,false,true,true,true,true,true,true,true,true,true,true,true,true,true,true,false],[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false],[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false],[true,true,true,true,false,true,false,true,false,false,false,true,true,true,false,false,false,false,true,false,true,true,false,true,false],[true,true,true,true,true,true,false,true,false,true,false,true,true,true,false,true,false,false,false,false,false,true,false,false,false],[true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,false,true,true,true,true,true,true,false,false],[true,true,true,true,true,true,true,true,false,false,false,false,false,false,false,false,false,false,false,true,true,true,true,true,false]],"meta":{"labRoom":"Lab01","checkDate":"2026-10-03","preparedBy":"Abdulbasit","sigTech":"Abdul Basit","sigFaculty":"","sigHOD":""},"savedAt":"2026-10-14T05:02:52.725Z"}
+--- END ---
